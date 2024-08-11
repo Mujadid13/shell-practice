@@ -1,0 +1,11 @@
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        29G  1.7G   27G   7% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           773M  984K  772M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+efivarfs        128K   35K   89K  29% /sys/firmware/efi/efivars
+/dev/sda16      881M   59M  761M   8% /boot
+/dev/sda15      105M  6.1M   99M   6% /boot/efi
+/dev/sdb1       7.8G   28K  7.4G   1% /mnt
+tmpfs           387M   12K  387M   1% /run/user/1000
